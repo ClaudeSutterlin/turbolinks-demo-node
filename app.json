@@ -1,0 +1,7 @@
+{
+    "name": "Turbolinks Demo",
+    "description": "Copy of the Ruby Turbolinks Demo app in Node.js",
+    "repository": "https://github.com/ClaudeSutterlin/turbolinks-demo-node",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["node", "express", "static"]
+  }
